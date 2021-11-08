@@ -14,7 +14,7 @@ Hi Partner!
 Hi Anusha! Here's a code chunk where you can work:
 
 ```{r Anusha}
-
+2 + 2
 ```
 
 And here is where I will work:
