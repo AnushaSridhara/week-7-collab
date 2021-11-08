@@ -21,7 +21,7 @@ Hi Anusha! Here's a code chunk where you can work:
 And here is where I will work:
 
 ```{r Cristina}
-
+plot(cars)
 ```
 
 
