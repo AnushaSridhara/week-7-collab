@@ -15,6 +15,7 @@ Hi Anusha! Here's a code chunk where you can work:
 
 ```{r Anusha}
 2 + 2
+5 * 5
 ```
 
 And here is where I will work:
